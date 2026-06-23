@@ -20,6 +20,17 @@
 ## 🙋‍♂️ About Me
 
 <div align="center">
+  <p>
+    I am a results-driven <strong>Computer Science</strong> engineering student specializing in <strong>Artificial Intelligence and Machine Learning</strong> at SRM University AP. Currently working as a <strong>GenAI & Prompt Engineering Intern</strong> at EduBot Technologies, I focus on building scalable, AI-powered applications and optimizing Large Language Models for real-world solutions. 
+  </p>
+  <p>
+    Combining my expertise in <strong>Full-Stack Development</strong> with a deep interest in <strong>Cloud Infrastructure</strong>, I thrive on turning complex technical challenges into elegant, resilient code—like engineering zero-trust payment platforms that function entirely offline.
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
