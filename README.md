@@ -17,21 +17,30 @@
 
 ---
 
-## 🙋♂️ About Me
+## 🙋‍♂️ About Me
 
-```yaml
-name: Harsh Kumar
-location: Andhra Pradesh, India
-education: B.Tech CSE (AIML) @ SRM University AP  |  CGPA: 7.71
-currently: Exploring GenAI, LLMs & Full-Stack Development
-experience: GenAI & Prompt Engineering Intern @ EduBot Technologies (Govt. of AP)
-certifications:
-  - Oracle Certified Professional: Java SE 17
-  - Oracle Cloud Infrastructure GenAI Professional
-  - AWS Certified Cloud Practitioner
-  - GenAI & Prompt Engineering (APSCHE & EduBot)
-fun_fact: I build payment platforms that work even without internet 💸
-```
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">💻 Current Focus</h3>
+        <ul>
+          <li>🔭 Exploring <strong>GenAI</strong>, <strong>LLMs</strong>, and <strong>Full-Stack Development</strong></li>
+          <li>💼 <strong>GenAI & Prompt Engineering Intern</strong> @ EduBot Technologies</li>
+          <li>🌱 Building scalable AI-powered applications</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎓 Background</h3>
+        <ul>
+          <li>🎓 <strong>B.Tech CSE (AIML)</strong> @ SRM University AP (CGPA: 7.71)</li>
+          <li>📍 <strong>Andhra Pradesh, India</strong></li>
+          <li>⚡ <strong>Fun Fact:</strong> I build payment platforms that work even without the internet! 💸</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
