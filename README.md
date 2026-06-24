@@ -108,7 +108,7 @@
 | 🏦 HarshPay | 💬 TalkToMe | 🐠 Sea Animal Classifier |
 |---|---|---|
 | Zero-Trust offline P2P payment platform | Real-time messaging + video calling app | Deep learning marine species classifier |
-| Flutter · Next.js · MongoDB · Clerk · Hive | MERN · Socket.io · WebRTC · JWT | Python · EfficientNetV2 · Streamlit |
+| Flutter · Next.js · MongoDB · Clerk · Hive | MERN · Socket.io · WebRTC · JWT | Python · EfficientNetV2 |
 | Escrow engine · QR pairing · offline-first | Group & 1-on-1 chat · typing indicators | 23 species · taxonomy-aware loss · top-3 results |
 | [GitHub](https://github.com/Harshkumar2306) | [GitHub](https://github.com/Harshkumar2306) | [GitHub](https://github.com/Harshkumar2306) |
 
