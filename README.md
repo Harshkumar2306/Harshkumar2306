@@ -1,180 +1,356 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harsh%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20GenAI%20%7C%20Cloud&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Flutter+%2B+MERN+Stack+Developer+%F0%9F%9A%80;Oracle+%26+AWS+Certified+Professional+%E2%98%81%EF%B8%8F;Turning+ideas+into+code%2C+one+commit+at+a+time+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Harsh+Kumar;GenAI+%26+Prompt+Engineering;Full+Stack+Developer;AI+%2F+ML+Engineer;AWS+%26+Oracle+Certified" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-17b839291/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshkumar2306)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarharsh2306@gmail.com)
+<p>
+  <img src="https://img.shields.io/badge/B.Tech_CSE_(AI%2FML)-SRM_University_AP-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-7.71_/_10-10B981?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Andhra_Pradesh,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
 
-</div>
+<p>
+  <a href="https://harsh-kumar-blush.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/harsh-kumar-17b839291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:kumarharsh2306@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Harshkumar2306" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
----
+<img src="https://komarev.com/ghpvc/?username=Harshkumar2306&color=7C3AED&style=flat-square&label=Profile+Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Harshkumar2306?style=flat-square&color=6366F1&label=Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Harshkumar2306?style=flat-square&color=A78BFA&label=Stars"/>
 
-## 🙋‍♂️ About Me
-
-<div align="center">
-  <p>
-    I am a results-driven <strong>Computer Science</strong> engineering student specializing in <strong>Artificial Intelligence and Machine Learning</strong> at SRM University AP. Currently working as a <strong>GenAI & Prompt Engineering Intern</strong> at EduBot Technologies, I focus on building scalable, AI-powered applications and optimizing Large Language Models for real-world solutions. 
-  </p>
-  <p>
-    Combining my expertise in <strong>Full-Stack Development</strong> with a deep interest in <strong>Cloud Infrastructure</strong>, I thrive on turning complex technical challenges into elegant, resilient code—like engineering zero-trust payment platforms that function entirely offline.
-  </p>
 </div>
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">💻 Current Focus</h3>
-        <ul>
-          <li>🔭 Exploring <strong>GenAI</strong>, <strong>LLMs</strong>, and <strong>Full-Stack Development</strong></li>
-          <li>💼 <strong>GenAI & Prompt Engineering Intern</strong> @ EduBot Technologies</li>
-          <li>🌱 Building scalable AI-powered applications</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🎓 Background</h3>
-        <ul>
-          <li>🎓 <strong>B.Tech CSE (AIML)</strong> @ SRM University AP (CGPA: 7.71)</li>
-          <li>📍 <strong>Andhra Pradesh, India</strong></li>
-          <li>⚡ <strong>Fun Fact:</strong> I build payment platforms that work even without the internet! 💸</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+---
+
+## About
+
+I am an **AI & Machine Learning engineer** and **Full Stack Developer** pursuing a B.Tech in Computer Science and Engineering (AI/ML) at SRM University AP. My work spans building GenAI-powered enterprise tooling, offline-first fintech systems, real-time communication infrastructure, and production computer vision models.
+
+As a **GenAI & Prompt Engineering Intern** at EduBot Technologies — built in collaboration with the Government of Andhra Pradesh — I shipped AI features to production, including prompt-chaining engines and few-shot tuning pipelines used across five industry domains.
+
+I combine strong systems-engineering fundamentals (offline-first architectures, zero-trust escrow logic, WebRTC mesh networking) with applied ML expertise (transfer learning, taxonomy-aware loss functions, geospatial data pipelines) to ship end-to-end products — from model training to cloud deployment.
+
+**Open to:** Software Engineering Internships · AI/ML Engineer Roles · GenAI / Prompt Engineering Roles · Full Stack Developer Roles
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+### Languages
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark"/>
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Frontend
 
-**Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,vite&theme=dark"/>
+</p>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Backend & Databases
 
-**Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,socketio&theme=dark"/>
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/WebRTC-A78BFA?style=flat-square&logo=webrtc&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hive-302B63?style=flat-square"/>
+</p>
 
-**AI & Cloud**
+### Cloud, DevOps & Tooling
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,firebase&theme=dark"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## AI / ML Expertise
 
-<div align="center">
-
-| 🏦 HarshPay | 💬 TalkToMe | 🐠 Sea Animal Classifier |
+| Domain | Proficiency | Details |
 |---|---|---|
-| Zero-Trust offline P2P payment platform | Real-time messaging + video calling app | Deep learning marine species classifier |
-| Flutter · Next.js · MongoDB · Clerk · Hive | MERN · Socket.io · WebRTC · JWT | Python · EfficientNetV2 |
-| Escrow engine · QR pairing · offline-first | Group & 1-on-1 chat · typing indicators | 23 species · taxonomy-aware loss · top-3 results |
-| [GitHub](https://github.com/Harshkumar2306) | [GitHub](https://github.com/Harshkumar2306) | [GitHub](https://github.com/Harshkumar2306) |
-
-</div>
+| **Large Language Models** | Advanced | Prompt engineering, multi-step prompt chaining, few-shot learning pipelines |
+| **Generative AI Tooling** | Advanced | Template-based prompt generation, Cohere API integration, parameter tuning dashboards |
+| **Computer Vision** | Experienced | Transfer learning, taxonomy-aware loss design, EfficientNetV2-M fine-tuning |
+| **Machine Learning** | Advanced | Scikit-learn, K-Means clustering, weighted sampling, model evaluation |
+| **Cloud AI** | Certified | AWS Certified Cloud Practitioner · Oracle Cloud Infrastructure GenAI Professional |
+| **Deep Learning** | Intermediate–Advanced | PyTorch, EMA, Test-Time Augmentation, Temperature Scaling |
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harshkumar2306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
+<details>
+<summary><b>HarshPay — Offline-First P2P Digital Payment Ecosystem</b></summary>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshkumar2306&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500"/>
+> Hardware-agnostic offline payment platform enabling secure P2P transfers with zero network connectivity.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Flutter · Next.js · Node.js · MongoDB · WebRTC · Hive · Vercel |
+| **Connectivity** | Offline-first via Google Nearby Connections, radio & optical QR transfer |
+| **Security** | Zero-trust match-and-settle escrow engine, encrypted Hive local storage |
+| **Settlement** | Atomic transaction settlement within a 24-hour TTL window |
+| **Sync** | Reactive background queue (Riverpod) pushing offline ledgers on reconnect |
+| **Repository** | [github.com/Harshkumar2306/Harsh-Pay-App](https://github.com/Harshkumar2306/Harsh-Pay-App) |
+| **Live Demo** | [harsh-bank.vercel.app](https://harsh-bank.vercel.app/) |
+
+**What it does:** Architected an offline-first P2P digital payment ecosystem eliminating double-spend vulnerabilities through independent cryptographic envelope verification, with autonomous background sync of offline ledger payloads to serverless APIs upon reconnection.
+
+</details>
+
+<details>
+<summary><b>TalkToMe — Real-Time Communication Platform</b></summary>
+
+<br/>
+
+> MERN-stack messaging and calling platform with peer-to-peer media streaming at zero relay cost.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | MERN · Socket.io · WebRTC · React · Node.js · Express |
+| **Scale** | 500+ concurrent connections |
+| **Latency** | Near-zero latency (&lt;50ms) for messaging, typing indicators, presence |
+| **Media** | WebRTC mesh topology for group audio/video, no centralized media server |
+| **Storage** | Cloudinary integration for 1,000+ images, files, and voice notes |
+| **Repository** | [github.com/Harshkumar2306/talk-to-me](https://github.com/Harshkumar2306/talk-to-me) |
+| **Live Demo** | [talk-to-me-pied.vercel.app](https://talk-to-me-pied.vercel.app/) |
+
+**What it does:** Real-time communication platform with scalable MongoDB schemas for cross-session read receipts and peer-to-peer signaling that scales group calling without relay infrastructure costs.
+
+</details>
+
+<details>
+<summary><b>Sea Animal Classifier — Fine-Grained Marine Species Classification</b></summary>
+
+<br/>
+
+> Dual-head PyTorch vision model classifying 23 marine species with taxonomy-aware loss design.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · PyTorch · EfficientNetV2-M · FastAPI · React |
+| **Model Size** | 53.5M parameters, dual-head architecture with custom taxonomy-aware penalty loss |
+| **Accuracy** | 94.16% top-1 accuracy · 0.99 ROC-AUC across 23 species |
+| **Optimization** | +6.75% accuracy via EMA (+2.25%), TTA (+2.20%), Temperature Scaling |
+| **Data Handling** | Class imbalance mitigated via WeightedRandomSampler |
+| **Deployment** | React/Vite SPA on Vercel + CPU-optimized FastAPI Docker container on Hugging Face Spaces |
+| **Repository** | [github.com/Harshkumar2306/Sea-Animal-Classifier](https://github.com/Harshkumar2306/Sea-Animal-Classifier) |
+| **Live Demo** | [sea-animal-classifier.vercel.app](https://sea-animal-classifier.vercel.app/) |
+
+**What it does:** Trained and deployed a fine-grained classification model integrating an autonomous AI research agent via the Wikipedia Action API, served through a decoupled cloud-native architecture.
+
+</details>
+
+<details>
+<summary><b>SmartAgro — Precision Agriculture Intelligence Platform</b></summary>
+
+<br/>
+
+> Geospatial crop health platform combining satellite imagery, weather data, and clustering-based analysis.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | React.js · FastAPI · Python · Scikit-learn · STAC API · Docker |
+| **Processing** | Multi-threaded, non-blocking GIS GeoTIFF processing |
+| **Data Pipeline** | Microsoft Planetary Computer + Open-Meteo API integration |
+| **Analysis** | K-Means clustering on NDVI/NDWI multi-spectral indices for crop health zones |
+| **Forecasting** | Nitrogen/water deficit calculation, canopy-moisture fungal outbreak radar |
+| **Repository** | [github.com/Harshkumar2306/SmartAgro](https://github.com/Harshkumar2306/SmartAgro) |
+| **Live Demo** | [smart-agro-eight.vercel.app](https://smart-agro-eight.vercel.app/) |
+
+**What it does:** Decoupled platform deployed across Vercel and Hugging Face Spaces, applying agronomic algorithms and live weather correlation to forecast crop stress before it becomes visible.
+
+</details>
+
+---
+
+## Experience
+
+### GenAI & Prompt Engineering Intern — EduBot Technologies (Govt. of AP Collaboration)
+
+`June 2025 – July 2025` · Vijayawada, AP
+
+Built and shipped enterprise-grade GenAI tooling as part of a Government of Andhra Pradesh collaboration, taking features from prototype to production.
+
+**Scope of work:**
+- Spearheaded AutoPrompt Builder, an enterprise prompt generation platform with template-based routing across 5 industry domains and configurable role, tone, and intent parameters
+- Designed a multi-step prompt chaining engine and parameter tuning dashboard with real-time output previews, accelerating prompt iteration speed by 2x
+- Integrated a few-shot learning module and a Firebase-backed per-session rating system, reducing evaluation effort by 40%
+- Shipped 3 core AI features to production on Render using Firebase Authentication and secure JSON/TXT export pipelines
+
+`Python` `Streamlit` `Cohere API` `Firebase` `Render`
+
+---
+
+## Engineering Highlights
+
+<div align="center">
+
+| Highlight | Detail |
+|---|---|
+| Sea Animal Classifier | 94.16% top-1 accuracy, 0.99 ROC-AUC across 23 fine-grained species |
+| TalkToMe | 500+ concurrent connections at &lt;50ms latency |
+| AutoPrompt Builder | 2x faster prompt iteration, 40% reduction in evaluation effort |
+| HarshPay | Zero-connectivity P2P settlement with cryptographic envelope verification |
+| SmartAgro | Automated crop-health segmentation via multi-spectral K-Means clustering |
+| Certifications | 4 professional certifications across AWS, Oracle, and GenAI domains |
 
 </div>
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <div align="center">
 
-| Badge | Certification | Issuer | Year |
-|---|---|---|---|
-| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services | 2026 |
-| ☕ | **Oracle Certified Professional: Java SE 17** | Oracle | 2026 |
-| 🤖 | **OCI Generative AI Professional** | Oracle | 2025 |
-| 🧠 | **GenAI & Prompt Engineering** | APSCHE & EduBot | 2025 |
+**Oracle**
+
+![Oracle Java SE 17](https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE_17-F80000?style=flat-square&logo=oracle&logoColor=white)
+&nbsp;
+![OCI GenAI Professional](https://img.shields.io/badge/Oracle-Cloud_Infrastructure_GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+<br/>
+
+**Amazon Web Services**
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+<br/>
+
+**APSCHE & EduBot**
+
+![GenAI Prompt Engineering](https://img.shields.io/badge/APSCHE_%26_EduBot-GenAI_%26_Prompt_Engineering-7C3AED?style=flat-square)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## GitHub Analytics
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Harshkumar2306/Harshkumar2306/output/github-contribution-grid-snake-dark.svg)
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Harshkumar2306&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshkumar2306&theme=tokyonight&border_radius=10&hide_border=false" />
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
 
 </div>
 
 ---
 
-## 💼 Experience
-
-**🏢 GenAI & Prompt Engineering Intern** — *EduBot Technologies (Govt. of AP Collaboration)*
-`June 2025 – July 2025 · Vijayawada`
-
-- Built AI chatbot automation, text summarization & structured data extraction using LLM APIs
-- Optimized prompt strategies to enhance AI response quality and reliability
-- Worked in Agile teams on real-world government-backed AI applications
-
----
+## GitHub Trophies
 
 <div align="center">
 
-<!-- Footer Wave -->
+<img src="https://github-profile-trophy.vercel.app/?username=Harshkumar2306&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshkumar2306&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Harshkumar2306/Harshkumar2306/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Advanced LLM Systems & Retrieval-Augmented Generation
+  - System Design & Distributed Systems
+  - Cloud-Native Architecture on AWS & OCI
+
+Building:
+  - GenAI-powered production tooling
+  - Offline-first and real-time full stack applications
+  - Applied computer vision & geospatial ML systems
+
+Exploring:
+  - Agentic AI workflows
+  - Zero-trust distributed systems
+  - Cloud AI ecosystems (AWS, OCI, Firebase)
+
+Open To:
+  - Software Engineering Internships
+  - AI / ML Engineer opportunities
+  - Full Stack Developer roles
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:kumarharsh2306@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kumarharsh2306@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/harsh-kumar-17b839291" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Harsh_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Harshkumar2306" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Harshkumar2306-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://harsh-kumar-blush.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Building at the intersection of GenAI, full-stack engineering, and offline-first systems.*
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-**"Code is like humor. When you have to explain it, it's bad."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Harshkumar2306&color=a78bfa&style=for-the-badge&label=Profile+Views)
 
 </div>
