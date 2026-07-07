@@ -223,7 +223,7 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 | AutoPrompt Builder | 2x faster prompt iteration, 40% reduction in evaluation effort |
 | HarshPay | Zero-connectivity P2P settlement with cryptographic envelope verification |
 | SmartAgro | Automated crop-health segmentation via multi-spectral K-Means clustering |
-| Certifications | 4 professional certifications across AWS, Oracle, and GenAI domains |
+| Certifications | 6 professional certifications across AWS, Oracle, Google, Packt, and GenAI domains |
 
 </div>
 
@@ -250,6 +250,18 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 **APSCHE & EduBot**
 
 ![GenAI Prompt Engineering](https://img.shields.io/badge/APSCHE_%26_EduBot-GenAI_%26_Prompt_Engineering-7C3AED?style=flat-square)
+
+<br/>
+
+**Google (via Coursera)**
+
+![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white)
+
+<br/>
+
+**Packt (via Coursera)**
+
+![Linux Bash Shell Scripting](https://img.shields.io/badge/Packt-Linux_Bash_Shell_Scripting-FF6F00?style=flat-square)
 
 </div>
 
