@@ -253,13 +253,9 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 <br/>
 
-**Google (via Coursera)**
+**Coursera)**
 
-![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white)
-
-
-**Packt (via Coursera)**
-
+![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white);
 ![Linux Bash Shell Scripting](https://img.shields.io/badge/Packt-Linux_Bash_Shell_Scripting-FF6F00?style=flat-square)
 
 </div>
