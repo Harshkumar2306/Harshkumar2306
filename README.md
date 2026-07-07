@@ -257,7 +257,6 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 ![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white)
 
-<br/>
 
 **Packt (via Coursera)**
 
