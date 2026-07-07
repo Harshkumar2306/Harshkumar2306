@@ -241,6 +241,14 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 <br/>
 
+**Coursera**
+
+![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white)
+&nbsp;
+![Linux Bash Shell Scripting](https://img.shields.io/badge/Packt-Linux_Bash_Shell_Scripting-FF6F00?style=flat-square)
+
+<br/>
+
 **Amazon Web Services**
 
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -253,11 +261,7 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 <br/>
 
-**Coursera**
 
-![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white)
-&nbsp;
-![Linux Bash Shell Scripting](https://img.shields.io/badge/Packt-Linux_Bash_Shell_Scripting-FF6F00?style=flat-square)
 
 </div>
 
