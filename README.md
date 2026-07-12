@@ -191,9 +191,13 @@ Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Pro
 Built and shipped enterprise-grade GenAI tooling as part of a Government of Andhra Pradesh collaboration, taking features from prototype to production.
 
 *Scope of work:*
+
 •⁠  ⁠Spearheaded AutoPrompt Builder, an enterprise prompt generation platform with template-based routing across 5 industry domains and configurable role, tone, and intent parameters
+
 •⁠  ⁠Designed a multi-step prompt chaining engine and parameter tuning dashboard with real-time output previews, accelerating prompt iteration speed by 2x
+
 •⁠  ⁠Integrated a few-shot learning module and a Firebase-backed per-session rating system, reducing evaluation effort by 40%
+
 •⁠  ⁠Shipped 3 core AI features to production on Render using Firebase Authentication and secure JSON/TXT export pipelines
 
 ⁠ Python ⁠ ⁠ Streamlit ⁠ ⁠ Cohere API ⁠ ⁠ Firebase ⁠ ⁠ Render ⁠
