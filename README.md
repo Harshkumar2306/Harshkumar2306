@@ -280,32 +280,6 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 ---
 
 
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced LLM Systems & Retrieval-Augmented Generation
-  - System Design & Distributed Systems
-  - Cloud-Native Architecture on AWS & OCI
-
-Building:
-  - GenAI-powered production tooling
-  - Offline-first and real-time full stack applications
-  - Applied computer vision & geospatial ML systems
-
-Exploring:
-  - Agentic AI workflows
-  - Zero-trust distributed systems
-  - Cloud AI ecosystems (AWS, OCI, Firebase)
-
-Open To:
-  - Software Engineering Internships
-  - AI / ML Engineer opportunities
-  - Full Stack Developer roles
-```
-
----
-
 ## Connect
 
 <div align="center">
