@@ -247,7 +247,6 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 <br/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" height="195" />
 </div>
----
 
 ## GitHub Trophies
 
