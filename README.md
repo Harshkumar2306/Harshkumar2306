@@ -210,6 +210,8 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 ![Oracle Java SE 17](https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE_17-F80000?style=flat-square&logo=oracle&logoColor=white)
 &nbsp;
 ![OCI GenAI Professional](https://img.shields.io/badge/Oracle-Cloud_Infrastructure_GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+
 **Coursera**
 
 ![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white)
