@@ -137,6 +137,51 @@ Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Pro
 </div>
 <br/>
 
+----
+## Tech Stack
+ 
+<div align="center">
+<details open>
+<summary><b>🧑💻 Languages</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js&theme=dark"/>
+</details>
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,sass,flutter,vite&theme=dark"/>
+</details>
+<details open>
+<summary><b>🤖 AI / ML / Data</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</details>
+<details open>
+<summary><b>⚙️ Backend & DevOps</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,mysql,mongodb,docker,git,linux,aws,firebase&theme=dark"/>
+<br/><br/>
+ 
+<img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/WebRTC-A78BFA?style=flat-square&logo=webrtc&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Hive-302B63?style=flat-square"/>
+</details>
+<details open>
+<summary><b>🔧 Tools & IDEs</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,github,figma,postman,vercel&theme=dark"/>
+</details>
+</div>
+----
+
 
 ## Featured Projects
 
