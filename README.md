@@ -210,28 +210,19 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 ![Oracle Java SE 17](https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE_17-F80000?style=flat-square&logo=oracle&logoColor=white)
 &nbsp;
 ![OCI GenAI Professional](https://img.shields.io/badge/Oracle-Cloud_Infrastructure_GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-
 **Coursera**
 
 ![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white)
 &nbsp;
 ![Linux Bash Shell Scripting](https://img.shields.io/badge/Packt-Linux_Bash_Shell_Scripting-FF6F00?style=flat-square)
 
-<br/>
-
 **Amazon Web Services**
 
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-<br/>
-
 **APSCHE & EduBot**
 
 ![GenAI Prompt Engineering](https://img.shields.io/badge/APSCHE_%26_EduBot-GenAI_%26_Prompt_Engineering-7C3AED?style=flat-square)
-
-<br/>
-
 
 
 </div>
