@@ -143,19 +143,15 @@ Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Pro
 <div align="center">
 
 ### Languages
-<br/>
+
 <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js&theme=dark"/>
 
-<br/>
-
 ### 🎨 Frontend
-<br/>
+
 <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,sass,flutter,vite&theme=dark"/>
 
-<br/>
-
 ### 🤖 AI / ML / Data
-<br/>
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -163,19 +159,21 @@ Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Pro
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<br/>
+
 ### ⚙️ Backend & DevOps
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,docker,git,linux,aws,firebase&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/WebRTC-A78BFA?style=flat-square&logo=webrtc&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Hive-302B63?style=flat-square"/>
-<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,mysql,mongodb,docker,git,linux,aws,firebase&theme=dark"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/WebRTC-A78BFA?style=flat-square&logo=webrtc&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hive-302B63?style=flat-square"/>
+</p>
+
 ### 🔧 Tools & IDEs
-<br/>
+
 <img src="https://skillicons.dev/icons?i=vscode,idea,github,figma,postman,vercel&theme=dark"/>
 
 </div>
