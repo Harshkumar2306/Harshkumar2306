@@ -46,7 +46,7 @@
 
 ## About
 
-I'm an AI & Machine Learning Engineer and Full-Stack Developer pursuing a B.Tech in Computer Science and Engineering (AI/ML) at SRM University AP.
+I'm an AI & ML Engineer and Full-Stack Developer pursuing a B.Tech in Computer Science and Engineering (AI/ML) at SRM University AP.
 
 I work across the full stack of intelligent systems — from training ML models to architecting the infrastructure that ships them. I'm skilled in prompt-chaining architectures, few-shot tuning, transfer learning, and taxonomy-aware loss functions, alongside offline-first system design, zero-trust escrow logic, and real-time WebRTC mesh networking. I also work with computer vision models and geospatial data pipelines, and build performant, production-ready interfaces on the frontend.
 
