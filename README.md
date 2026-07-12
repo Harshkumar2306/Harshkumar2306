@@ -231,20 +231,22 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 ---
 
-## GitHub Analytics
 
+## 📊 GitHub Analytics
 <div align="center">
-
-<img height="175" src="https://github-stats-extended.vercel.app/api?username=Harshkumar2306&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175" src="https://streak-stats.demolab.com/?user=Harshkumar2306&theme=tokyonight&border_radius=10&hide_border=false" />
-
-<br/><br/>
-
-<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
-
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" valign="top" style="border: none; padding-right: 10px;">
+      <img src="https://github-stats-extended.vercel.app/api?username=Harshkumar2306&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" height="195" />
+    </td>
+    <td align="center" valign="top" style="border: none; padding-left: 10px;">
+      <img src="https://streak-stats.demolab.com/?user=Harshkumar2306&theme=tokyonight&border_radius=10&hide_border=false" height="195" />
+    </td>
+  </tr>
+</table>
+<br/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" height="195" />
 </div>
-
 ---
 
 ## GitHub Trophies
