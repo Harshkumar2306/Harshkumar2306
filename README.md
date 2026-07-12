@@ -196,16 +196,10 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 •⁠  ⁠Integrated a few-shot learning module and a Firebase-backed per-session rating system, reducing evaluation effort by 40%
 •⁠  ⁠Shipped 3 core AI features to production on Render using Firebase Authentication and secure JSON/TXT export pipelines
 
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cohere_API-39594D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-</p>
+⁠ Python ⁠ ⁠ Streamlit ⁠ ⁠ Cohere API ⁠ ⁠ Firebase ⁠ ⁠ Render ⁠
 
 ---
+
 
 ## Certifications
 
