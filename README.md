@@ -38,21 +38,11 @@
 &nbsp;
 <img src="https://img.shields.io/github/stars/Harshkumar2306?style=flat-square&color=A78BFA&label=Stars"/>
 
-<br/><br/>
-
-<p>
-  <a href="#about">About</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#experience">Experience</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#certifications">Certifications</a> •
-  <a href="#github-analytics">GitHub Analytics</a> •
-  <a href="#connect">Connect</a>
-</p>
-
 </div>
 
 <br/>
+
+---
 
 ## About
 
@@ -62,30 +52,26 @@ I work across the full stack of intelligent systems — from training ML models 
 
 I care about the space between disciplines — understanding ML deeply enough to design the right model, and systems engineering deeply enough to ship it.
 
-**Open to:** Software Engineering Internships · AI/ML Engineer Roles · GenAI / Prompt Engineering Roles · Full-Stack Developer Roles
+Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Prompt Engineering Roles · Full-Stack Developer Roles
 
-<br/>
+---
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### Languages
 
-**Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark"/>
 </p>
 
-**Frontend**
+### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,vite&theme=dark"/>
 </p>
 
-</td>
-<td valign="top" width="50%">
+### Backend & Databases
 
-**Backend & Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,socketio&theme=dark"/>
 </p>
@@ -98,43 +84,20 @@ I care about the space between disciplines — understanding ML deeply enough to
   <img src="https://img.shields.io/badge/Hive-302B63?style=flat-square"/>
 </p>
 
-**Cloud, DevOps & Tooling**
+### Cloud, DevOps & Tooling
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,firebase&theme=dark"/>
 </p>
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
-
-## Experience
-
-**GenAI & Prompt Engineering Intern** — EduBot Technologies (Govt. of AP Collaboration)
-`June 2025 – July 2025` · Vijayawada, AP
-
-Built and shipped enterprise-grade GenAI tooling as part of a Government of Andhra Pradesh collaboration, taking features from prototype to production.
-
-- Spearheaded **AutoPrompt Builder**, an enterprise prompt generation platform with template-based routing across 5 industry domains and configurable role, tone, and intent parameters
-- Designed a multi-step prompt chaining engine and parameter tuning dashboard with real-time output previews, accelerating prompt iteration speed by **2x**
-- Integrated a few-shot learning module and a Firebase-backed per-session rating system, reducing evaluation effort by **40%**
-- Shipped 3 core AI features to production on Render using Firebase Authentication and secure JSON/TXT export pipelines
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cohere_API-39594D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-</p>
-
-<br/>
 
 ## Featured Projects
 
-<details open>
-<summary><b>💳 HarshPay — Offline-First P2P Digital Payment Ecosystem</b></summary>
+<details>
+<summary><b>HarshPay — Offline-First P2P Digital Payment Ecosystem</b></summary>
+
 <br/>
 
 > Hardware-agnostic offline payment platform enabling secure P2P transfers with zero network connectivity.
@@ -154,7 +117,8 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 </details>
 
 <details>
-<summary><b>💬 TalkToMe — Real-Time Communication Platform</b></summary>
+<summary><b>TalkToMe — Real-Time Communication Platform</b></summary>
+
 <br/>
 
 > MERN-stack messaging and calling platform with peer-to-peer media streaming at zero relay cost.
@@ -174,7 +138,8 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 </details>
 
 <details>
-<summary><b>🐠 Sea Animal Classifier — Fine-Grained Marine Species Classification</b></summary>
+<summary><b>Sea Animal Classifier — Fine-Grained Marine Species Classification</b></summary>
+
 <br/>
 
 > Dual-head PyTorch vision model classifying 23 marine species with taxonomy-aware loss design.
@@ -195,7 +160,8 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 </details>
 
 <details>
-<summary><b>🌱 SmartAgro — Precision Agriculture Intelligence Platform</b></summary>
+<summary><b>SmartAgro — Precision Agriculture Intelligence Platform</b></summary>
+
 <br/>
 
 > Geospatial crop health platform combining satellite imagery, weather data, and clustering-based analysis.
@@ -214,39 +180,56 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 </details>
 
-<br/>
+---
+
+## Experience
+
+### GenAI & Prompt Engineering Intern — EduBot Technologies (Govt. of AP Collaboration)
+
+`June 2025 – July 2025` · Vijayawada, AP
+
+Built and shipped enterprise-grade GenAI tooling as part of a Government of Andhra Pradesh collaboration, taking features from prototype to production.
+
+**Scope of work:**
+- Spearheaded AutoPrompt Builder, an enterprise prompt generation platform with template-based routing across 5 industry domains and configurable role, tone, and intent parameters
+- Designed a multi-step prompt chaining engine and parameter tuning dashboard with real-time output previews, accelerating prompt iteration speed by 2x
+- Integrated a few-shot learning module and a Firebase-backed per-session rating system, reducing evaluation effort by 40%
+- Shipped 3 core AI features to production on Render using Firebase Authentication and secure JSON/TXT export pipelines
+
+`Python` `Streamlit` `Cohere API` `Firebase` `Render`
+
+---
+
 
 ## Certifications
 
 <div align="center">
 
 **Oracle**
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE_17-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-</p>
 
-**Amazon Web Services**
-<p>
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
+![Oracle Java SE 17](https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE_17-F80000?style=flat-square&logo=oracle&logoColor=white)
+&nbsp;
+![OCI GenAI Professional](https://img.shields.io/badge/Oracle-Cloud_Infrastructure_GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)
+
 
 **Coursera**
-<p>
-  <img src="https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Packt-Linux_Bash_Shell_Scripting-FF6F00?style=flat-square"/>
-</p>
+
+![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white)
+&nbsp;
+![Linux Bash Shell Scripting](https://img.shields.io/badge/Packt-Linux_Bash_Shell_Scripting-FF6F00?style=flat-square)
+
+**Amazon Web Services**
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 **APSCHE & EduBot**
-<p>
-  <img src="https://img.shields.io/badge/APSCHE_%26_EduBot-GenAI_%26_Prompt_Engineering-7C3AED?style=flat-square"/>
-</p>
+
+![GenAI Prompt Engineering](https://img.shields.io/badge/APSCHE_%26_EduBot-GenAI_%26_Prompt_Engineering-7C3AED?style=flat-square)
+
 
 </div>
 
-<br/>
+---
 
 ## GitHub Analytics
 
@@ -260,23 +243,36 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
 
-<br/><br/>
+</div>
 
-<a href="https://github.com/Harshkumar2306">
-  <img src="./trophy.svg" alt="Harshkumar2306's Trophies" />
-</a>
+---
 
-<br/><br/>
+## GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/Harshkumar2306">
+    <img src="./trophy.svg" alt="Harshkumar2306's Trophies" />
+  </a>
+</p>
+
+---
+
+## Contribution Activity
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshkumar2306&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
-<br/>
+</div>
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Harshkumar2306/Harshkumar2306/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<br/>
+---
+
 
 ## Current Focus
 
@@ -295,9 +291,14 @@ Exploring:
   - Agentic AI workflows
   - Zero-trust distributed systems
   - Cloud AI ecosystems (AWS, OCI, Firebase)
+
+Open To:
+  - Software Engineering Internships
+  - AI / ML Engineer opportunities
+  - Full Stack Developer roles
 ```
 
-<br/>
+---
 
 ## Connect
 
@@ -319,7 +320,11 @@ Exploring:
   <img src="https://img.shields.io/badge/Portfolio-Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 *Building at the intersection of GenAI, full-stack engineering, and offline-first systems.*
 
