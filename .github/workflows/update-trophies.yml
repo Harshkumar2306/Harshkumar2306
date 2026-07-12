@@ -1,0 +1,29 @@
+name: Update README trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight to update your trophies
+  workflow_dispatch:    # Allows you to run it manually anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to allow the workflow to commit the SVG back to your repo
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=Harshkumar2306&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4'
+          path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit trophy card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git commit -m "Update README trophy" || exit 0
+          git push
