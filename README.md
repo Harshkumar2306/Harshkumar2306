@@ -306,8 +306,6 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 <div align="center">
 
-*Building at the intersection of GenAI, full-stack engineering, and offline-first systems.*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
