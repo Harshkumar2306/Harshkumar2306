@@ -6,7 +6,7 @@
 
 <br/>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/B.Tech_CSE_(AI%2FML)-SRM_University_AP-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/CGPA-7.71_/_10-10B981?style=flat-square"/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Location-Andhra_Pradesh,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
-<p align="center">
+<p>
   <a href="https://harsh-kumar-blush.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -32,21 +32,29 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshkumar2306&color=7C3AED&style=flat-square&label=Profile+Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Harshkumar2306?style=flat-square&color=6366F1&label=Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Harshkumar2306?style=flat-square&color=A78BFA&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Harshkumar2306&color=7C3AED&style=flat-square&label=Profile+Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Harshkumar2306?style=flat-square&color=6366F1&label=Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Harshkumar2306?style=flat-square&color=A78BFA&label=Stars"/>
+
+<br/><br/>
+
+<p>
+  <a href="#about">About</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#certifications">Certifications</a> •
+  <a href="#github-analytics">GitHub Analytics</a> •
+  <a href="#connect">Connect</a>
 </p>
 
 </div>
 
 <br/>
 
----
-
-## 🧑‍💻 About Me
+## About
 
 I'm an AI & Machine Learning Engineer and Full-Stack Developer pursuing a B.Tech in Computer Science and Engineering (AI/ML) at SRM University AP.
 
@@ -56,34 +64,76 @@ I care about the space between disciplines — understanding ML deeply enough to
 
 **Open to:** Software Engineering Internships · AI/ML Engineer Roles · GenAI / Prompt Engineering Roles · Full-Stack Developer Roles
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>💻 Languages & Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=java,cpp,python,js,react,nextjs,html,css,tailwind,flutter,vite&theme=dark" />
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>⚙️ Backend, Cloud & Devops</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,socketio,aws,docker,git,github,vercel,firebase&theme=dark" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/WebRTC-A78BFA?style=flat-square&logo=webrtc&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Hive-302B63?style=flat-square"/>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark"/>
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,vite&theme=dark"/>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,socketio&theme=dark"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/WebRTC-A78BFA?style=flat-square&logo=webrtc&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hive-302B63?style=flat-square"/>
+</p>
+
+**Cloud, DevOps & Tooling**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,firebase&theme=dark"/>
+</p>
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## Experience
 
-<details>
+**GenAI & Prompt Engineering Intern** — EduBot Technologies (Govt. of AP Collaboration)
+`June 2025 – July 2025` · Vijayawada, AP
+
+Built and shipped enterprise-grade GenAI tooling as part of a Government of Andhra Pradesh collaboration, taking features from prototype to production.
+
+- Spearheaded **AutoPrompt Builder**, an enterprise prompt generation platform with template-based routing across 5 industry domains and configurable role, tone, and intent parameters
+- Designed a multi-step prompt chaining engine and parameter tuning dashboard with real-time output previews, accelerating prompt iteration speed by **2x**
+- Integrated a few-shot learning module and a Firebase-backed per-session rating system, reducing evaluation effort by **40%**
+- Shipped 3 core AI features to production on Render using Firebase Authentication and secure JSON/TXT export pipelines
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cohere_API-39594D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+</p>
+
+<br/>
+
+## Featured Projects
+
+<details open>
 <summary><b>💳 HarshPay — Offline-First P2P Digital Payment Ecosystem</b></summary>
 <br/>
 
@@ -91,13 +141,13 @@ I care about the space between disciplines — understanding ML deeply enough to
 
 | Attribute | Detail |
 |---|---|
-| **🛠️ Stack** | Flutter · Next.js · Node.js · MongoDB · WebRTC · Hive · Vercel |
-| **🔌 Connectivity** | Offline-first via Google Nearby Connections, radio & optical QR transfer |
-| **🔒 Security** | Zero-trust match-and-settle escrow engine, encrypted Hive local storage |
-| **⚡ Settlement** | Atomic transaction settlement within a 24-hour TTL window |
-| **🔄 Sync** | Reactive background queue (Riverpod) pushing offline ledgers on reconnect |
-| **📦 Repository** | [github.com/Harshkumar2306/Harsh-Pay-App](https://github.com/Harshkumar2306/Harsh-Pay-App) |
-| **🌐 Live Demo** | [harsh-bank.vercel.app](https://harsh-bank.vercel.app/) |
+| **Stack** | Flutter · Next.js · Node.js · MongoDB · WebRTC · Hive · Vercel |
+| **Connectivity** | Offline-first via Google Nearby Connections, radio & optical QR transfer |
+| **Security** | Zero-trust match-and-settle escrow engine, encrypted Hive local storage |
+| **Settlement** | Atomic transaction settlement within a 24-hour TTL window |
+| **Sync** | Reactive background queue (Riverpod) pushing offline ledgers on reconnect |
+| **Repository** | [github.com/Harshkumar2306/Harsh-Pay-App](https://github.com/Harshkumar2306/Harsh-Pay-App) |
+| **Live Demo** | [harsh-bank.vercel.app](https://harsh-bank.vercel.app/) |
 
 **What it does:** Architected an offline-first P2P digital payment ecosystem eliminating double-spend vulnerabilities through independent cryptographic envelope verification, with autonomous background sync of offline ledger payloads to serverless APIs upon reconnection.
 
@@ -111,182 +161,145 @@ I care about the space between disciplines — understanding ML deeply enough to
 
 | Attribute | Detail |
 |---|---|
-| **🛠️ Stack** | MERN · Socket.io · WebRTC · React · Node.js · Express |
-| **📈 Scale** | 500+ concurrent connections |
-| **⚡ Latency** | Near-zero latency (&lt;50ms) for messaging, typing indicators, presence |
-| **📹 Media** | WebRTC mesh topology for group audio/video, no centralized media server |
-| **💾 Storage** | Cloudinary integration for 1,000+ images, files, and voice notes |
-| **📦 Repository** | [github.com/Harshkumar2306/talk-to-me](https://github.com/Harshkumar2306/talk-to-me) |
-| **🌐 Live Demo** | [talk-to-me-pied.vercel.app](https://talk-to-me-pied.vercel.app/) |
+| **Stack** | MERN · Socket.io · WebRTC · React · Node.js · Express |
+| **Scale** | 500+ concurrent connections |
+| **Latency** | Near-zero latency (&lt;50ms) for messaging, typing indicators, presence |
+| **Media** | WebRTC mesh topology for group audio/video, no centralized media server |
+| **Storage** | Cloudinary integration for 1,000+ images, files, and voice notes |
+| **Repository** | [github.com/Harshkumar2306/talk-to-me](https://github.com/Harshkumar2306/talk-to-me) |
+| **Live Demo** | [talk-to-me-pied.vercel.app](https://talk-to-me-pied.vercel.app/) |
 
 **What it does:** Real-time communication platform with scalable MongoDB schemas for cross-session read receipts and peer-to-peer signaling that scales group calling without relay infrastructure costs.
 
 </details>
 
 <details>
-<summary><b>🐳 Sea Animal Classifier — Fine-Grained Marine Species Classification</b></summary>
+<summary><b>🐠 Sea Animal Classifier — Fine-Grained Marine Species Classification</b></summary>
 <br/>
 
 > Dual-head PyTorch vision model classifying 23 marine species with taxonomy-aware loss design.
 
 | Attribute | Detail |
 |---|---|
-| **🛠️ Stack** | Python · PyTorch · EfficientNetV2-M · FastAPI · React |
-| **🧠 Model Size** | 53.5M parameters, dual-head architecture with custom taxonomy-aware penalty loss |
-| **🎯 Accuracy** | 94.16% top-1 accuracy · 0.99 ROC-AUC across 23 species |
-| **⚡ Optimization** | +6.75% accuracy via EMA (+2.25%), TTA (+2.20%), Temperature Scaling |
-| **📊 Data Handling** | Class imbalance mitigated via WeightedRandomSampler |
-| **📦 Repository** | [github.com/Harshkumar2306/Sea-Animal-Classifier](https://github.com/Harshkumar2306/Sea-Animal-Classifier) |
-| **🌐 Live Demo** | [sea-animal-classifier.vercel.app](https://sea-animal-classifier.vercel.app/) |
+| **Stack** | Python · PyTorch · EfficientNetV2-M · FastAPI · React |
+| **Model Size** | 53.5M parameters, dual-head architecture with custom taxonomy-aware penalty loss |
+| **Accuracy** | 94.16% top-1 accuracy · 0.99 ROC-AUC across 23 species |
+| **Optimization** | +6.75% accuracy via EMA (+2.25%), TTA (+2.20%), Temperature Scaling |
+| **Data Handling** | Class imbalance mitigated via WeightedRandomSampler |
+| **Deployment** | React/Vite SPA on Vercel + CPU-optimized FastAPI Docker container on Hugging Face Spaces |
+| **Repository** | [github.com/Harshkumar2306/Sea-Animal-Classifier](https://github.com/Harshkumar2306/Sea-Animal-Classifier) |
+| **Live Demo** | [sea-animal-classifier.vercel.app](https://sea-animal-classifier.vercel.app/) |
 
 **What it does:** Trained and deployed a fine-grained classification model integrating an autonomous AI research agent via the Wikipedia Action API, served through a decoupled cloud-native architecture.
 
 </details>
 
 <details>
-<summary><b>🛰️ SmartAgro — Precision Agriculture Intelligence Platform</b></summary>
+<summary><b>🌱 SmartAgro — Precision Agriculture Intelligence Platform</b></summary>
 <br/>
 
 > Geospatial crop health platform combining satellite imagery, weather data, and clustering-based analysis.
 
 | Attribute | Detail |
 |---|---|
-| **🛠️ Stack** | React.js · FastAPI · Python · Scikit-learn · STAC API · Docker |
-| **⚙️ Processing** | Multi-threaded, non-blocking GIS GeoTIFF processing |
-| **🚰 Data Pipeline** | Microsoft Planetary Computer + Open-Meteo API integration |
-| **🔬 Analysis** | K-Means clustering on NDVI/NDWI multi-spectral indices for crop health zones |
-| **⚡ Forecasting** | Nitrogen/water deficit calculation, canopy-moisture fungal outbreak radar |
-| **📦 Repository** | [github.com/Harshkumar2306/SmartAgro](https://github.com/Harshkumar2306/SmartAgro) |
-| **🌐 Live Demo** | [smart-agro-eight.vercel.app](https://smart-agro-eight.vercel.app/) |
+| **Stack** | React.js · FastAPI · Python · Scikit-learn · STAC API · Docker |
+| **Processing** | Multi-threaded, non-blocking GIS GeoTIFF processing |
+| **Data Pipeline** | Microsoft Planetary Computer + Open-Meteo API integration |
+| **Analysis** | K-Means clustering on NDVI/NDWI multi-spectral indices for crop health zones |
+| **Forecasting** | Nitrogen/water deficit calculation, canopy-moisture fungal outbreak radar |
+| **Repository** | [github.com/Harshkumar2306/SmartAgro](https://github.com/Harshkumar2306/SmartAgro) |
+| **Live Demo** | [smart-agro-eight.vercel.app](https://smart-agro-eight.vercel.app/) |
 
 **What it does:** Decoupled platform deployed across Vercel and Hugging Face Spaces, applying agronomic algorithms and live weather correlation to forecast crop stress before it becomes visible.
 
 </details>
 
----
+<br/>
 
-## 💼 Experience
-
-### GenAI & Prompt Engineering Intern — EduBot Technologies (Govt. of AP Collaboration)
-`June 2025 – July 2025` · Vijayawada, AP
-
-Built and shipped enterprise-grade GenAI tooling as part of a Government of Andhra Pradesh collaboration, taking features from prototype to production.
-
-* **Scope of work:**
-  * Spearheaded AutoPrompt Builder, an enterprise prompt generation platform with template-based routing across 5 industry domains and configurable role, tone, and intent parameters.
-  * Designed a multi-step prompt chaining engine and parameter tuning dashboard with real-time output previews, accelerating prompt iteration speed by 2x.
-  * Integrated a few-shot learning module and a Firebase-backed per-session rating system, reducing evaluation effort by 40%.
-  * Shipped 3 core AI features to production on Render using Firebase Authentication and secure JSON/TXT export pipelines.
-
-`Python` `Streamlit` `Cohere API` `Firebase` `Render`
-
----
-
-## 🎓 Certifications
-
-<table align="center" width="100%" style="border-collapse: collapse; border: none; text-align: center;">
-  <tr>
-    <td align="center" width="33%" valign="top" style="border: none;">
-      <h4>🏆 Oracle</h4>
-      <img src="https://img.shields.io/badge/Oracle-Certified_Java_SE_17-F80000?style=flat-square&logo=oracle&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Oracle-GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-    </td>
-    <td align="center" width="33%" valign="top" style="border: none;">
-      <h4>🎓 Coursera & Packt</h4>
-      <img src="https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Packt-Linux_Bash_Scripting-FF6F00?style=flat-square"/>
-    </td>
-    <td align="center" width="34%" valign="top" style="border: none;">
-      <h4>☁️ AWS & APSCHE</h4>
-      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/APSCHE-GenAI_Prompt_Eng.-7C3AED?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
+## Certifications
 
 <div align="center">
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" valign="top" style="border: none; padding-right: 10px;">
-      <img src="https://github-stats-extended.vercel.app/api?username=Harshkumar2306&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" height="195" />
-    </td>
-    <td align="center" valign="top" style="border: none; padding-left: 10px;">
-      <img src="https://streak-stats.demolab.com/?user=Harshkumar2306&theme=tokyonight&border_radius=10&hide_border=false" height="195" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" height="195" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/Harshkumar2306">
-    <img src="./trophy.svg" alt="Harshkumar2306's Trophies" />
-  </a>
+**Oracle**
+<p>
+  <img src="https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE_17-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
----
+**Amazon Web Services**
+<p>
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
 
-## 📈 Contribution Activity
+**Coursera**
+<p>
+  <img src="https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Packt-Linux_Bash_Shell_Scripting-FF6F00?style=flat-square"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshkumar2306&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+**APSCHE & EduBot**
+<p>
+  <img src="https://img.shields.io/badge/APSCHE_%26_EduBot-GenAI_%26_Prompt_Engineering-7C3AED?style=flat-square"/>
+</p>
+
 </div>
 
 <br/>
 
+## GitHub Analytics
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Harshkumar2306/Harshkumar2306/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=Harshkumar2306&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="175" src="https://streak-stats.demolab.com/?user=Harshkumar2306&theme=tokyonight&border_radius=10&hide_border=false" />
+
+<br/><br/>
+
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+
+<br/><br/>
+
+<a href="https://github.com/Harshkumar2306">
+  <img src="./trophy.svg" alt="Harshkumar2306's Trophies" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshkumar2306&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Harshkumar2306/Harshkumar2306/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
----
+<br/>
 
-## 🎯 Current Focus
+## Current Focus
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="33%" valign="top" style="border: none; padding: 10px;">
-      <h4>📚 Learning</h4>
-      <ul>
-        <li>Advanced LLMs & Retrieval-Augmented Generation</li>
-        <li>Distributed System Architecture</li>
-        <li>Cloud-Native Deployment (AWS & OCI)</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top" style="border: none; padding: 10px;">
-      <h4>🏗️ Building</h4>
-      <ul>
-        <li>GenAI-powered developer utility tools</li>
-        <li>Offline-first local network applications</li>
-        <li>Applied computer vision & spatial ML models</li>
-      </ul>
-    </td>
-    <td width="34%" valign="top" style="border: none; padding: 10px;">
-      <h4>🧬 Exploring</h4>
-      <ul>
-        <li>Autonomous agentic workflow design</li>
-        <li>Zero-trust distributed networks</li>
-        <li>Scalable Firebase & serverless ecosystems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```yaml
+Learning:
+  - Advanced LLM Systems & Retrieval-Augmented Generation
+  - System Design & Distributed Systems
+  - Cloud-Native Architecture on AWS & OCI
 
----
+Building:
+  - GenAI-powered production tooling
+  - Offline-first and real-time full stack applications
+  - Applied computer vision & geospatial ML systems
 
-## 🤝 Connect With Me
+Exploring:
+  - Agentic AI workflows
+  - Zero-trust distributed systems
+  - Cloud AI ecosystems (AWS, OCI, Firebase)
+```
+
+<br/>
+
+## Connect
 
 <div align="center">
 
@@ -306,15 +319,9 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
   <img src="https://img.shields.io/badge/Portfolio-Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 *Building at the intersection of GenAI, full-stack engineering, and offline-first systems.*
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
