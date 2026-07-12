@@ -204,7 +204,7 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 </p>
 
-
+<br/>
 
 ## Certifications
 
