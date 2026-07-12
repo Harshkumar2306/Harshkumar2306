@@ -92,18 +92,6 @@ I combine strong systems-engineering fundamentals (offline-first architectures, 
 
 ---
 
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Large Language Models** | Advanced | Prompt engineering, multi-step prompt chaining, few-shot learning pipelines |
-| **Generative AI Tooling** | Advanced | Template-based prompt generation, Cohere API integration, parameter tuning dashboards |
-| **Computer Vision** | Experienced | Transfer learning, taxonomy-aware loss design, EfficientNetV2-M fine-tuning |
-| **Machine Learning** | Advanced | Scikit-learn, K-Means clustering, weighted sampling, model evaluation |
-| **Cloud AI** | Certified | AWS Certified Cloud Practitioner · Oracle Cloud Infrastructure GenAI Professional |
-| **Deep Learning** | Intermediate–Advanced | PyTorch, EMA, Test-Time Augmentation, Temperature Scaling |
-
----
 
 ## Featured Projects
 
@@ -212,22 +200,6 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 ---
 
-## Engineering Highlights
-
-<div align="center">
-
-| Highlight | Detail |
-|---|---|
-| Sea Animal Classifier | 94.16% top-1 accuracy, 0.99 ROC-AUC across 23 fine-grained species |
-| TalkToMe | 500+ concurrent connections at &lt;50ms latency |
-| AutoPrompt Builder | 2x faster prompt iteration, 40% reduction in evaluation effort |
-| HarshPay | Zero-connectivity P2P settlement with cryptographic envelope verification |
-| SmartAgro | Automated crop-health segmentation via multi-spectral K-Means clustering |
-| Certifications | 6 professional certifications across AWS, Oracle, Google, Packt, and GenAI domains |
-
-</div>
-
----
 
 ## Certifications
 
