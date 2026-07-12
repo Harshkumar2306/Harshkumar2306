@@ -235,13 +235,13 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Harshkumar2306&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=Harshkumar2306&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshkumar2306&theme=tokyonight&border_radius=10&hide_border=false" />
+<img height="175" src="https://streak-stats.demolab.com/?user=Harshkumar2306&theme=tokyonight&border_radius=10&hide_border=false" />
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
 
 </div>
 
@@ -257,21 +257,22 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 ---
 
-## GitHub Analytics
+## Contribution Activity
 
 <div align="center">
 
-<img height="175" src="https://github-stats-extended.vercel.app/api?username=Harshkumar2306&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175" src="https://streak-stats.demolab.com/?user=Harshkumar2306&theme=tokyonight&border_radius=10&hide_border=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshkumar2306&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
-<br/><br/>
+</div>
 
-<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshkumar2306&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Harshkumar2306/Harshkumar2306/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
+
 
 ## Current Focus
 
