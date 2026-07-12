@@ -59,49 +59,6 @@ Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Pro
 
 ## Tech Stack
 
-<div align="center">
-
-### ▼ 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js&theme=dark"/>
-
-<br/><br/>
-
-### ▼ 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,sass&theme=dark"/>
-
-<br/><br/>
-
-### ▼ 🤖 AI / ML / Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" valign="middle"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-3F47CC?style=for-the-badge&logo=opencv&logoColor=white" height="48" valign="middle"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" valign="middle"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" valign="middle"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48" valign="middle"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Hugging%20Face-F9D342?style=for-the-badge&logo=huggingface&logoColor=black" height="48" valign="middle"/>
-</p>
-
-<br/>
-
-### ▼ ⚙️ Backend & DevOps
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,mysql,mongodb,docker,git,linux,aws&theme=dark"/>
-
-<br/><br/>
-
-### ▼ 🔧 Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,idea,github,figma,postman,vercel&theme=dark"/>
-
-</div>
-
-
-----
-## Tech Stack
-
 ### Languages
 
 <p>
