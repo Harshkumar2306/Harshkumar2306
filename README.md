@@ -251,7 +251,7 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 
 <p align="center">
   <a href="https://github.com/Harshkumar2306">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=Harshkumar2306&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4" alt="Harshkumar2306's Trophies" />
+    <img src="https://<YOUR-NEW-VERCEL-DOMAIN>.vercel.app/?username=Harshkumar2306&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4" alt="Harshkumar2306's Trophies" />
   </a>
 </p>
 
