@@ -46,13 +46,10 @@
 
 ## About
 
-I am an **AI & Machine Learning engineer** and **Full Stack Developer** pursuing a B.Tech in Computer Science and Engineering (AI/ML) at SRM University AP. My work spans building GenAI-powered enterprise tooling, offline-first fintech systems, real-time communication infrastructure, and production computer vision models.
-
-As a **GenAI & Prompt Engineering Intern** at EduBot Technologies — built in collaboration with the Government of Andhra Pradesh — I shipped AI features to production, including prompt-chaining engines and few-shot tuning pipelines used across five industry domains.
-
-I combine strong systems-engineering fundamentals (offline-first architectures, zero-trust escrow logic, WebRTC mesh networking) with applied ML expertise (transfer learning, taxonomy-aware loss functions, geospatial data pipelines) to ship end-to-end products — from model training to cloud deployment.
-
-**Open to:** Software Engineering Internships · AI/ML Engineer Roles · GenAI / Prompt Engineering Roles · Full Stack Developer Roles
+I'm an AI & Machine Learning Engineer and Full-Stack Developer pursuing a B.Tech in Computer Science and Engineering (AI/ML) at SRM University AP.
+I work across the full stack of intelligent systems — from training ML models to architecting the infrastructure that ships them. I'm skilled in prompt-chaining architectures, few-shot tuning, transfer learning, and taxonomy-aware loss functions, alongside offline-first system design, zero-trust escrow logic, and real-time WebRTC mesh networking. I also work with computer vision models and geospatial data pipelines, and build performant, production-ready interfaces on the frontend.
+I care about the space between disciplines — understanding ML deeply enough to design the right model, and systems engineering deeply enough to ship it.
+Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Prompt Engineering Roles · Full-Stack Developer Roles
 
 ---
 
