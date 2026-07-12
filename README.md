@@ -95,7 +95,7 @@ Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Pro
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,github,figma,postman,vercel&theme=dark"/>
 
-
+</div>
 
 ---
 
