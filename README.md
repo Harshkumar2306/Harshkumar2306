@@ -93,6 +93,37 @@ Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Pro
 
 ---
 
+## Tech Stack
+ 
+### Languages
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark"/>
+</p>
+### Frontend
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,vite&theme=dark"/>
+</p>
+### Backend & Databases
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,socketio&theme=dark"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/WebRTC-A78BFA?style=flat-square&logo=webrtc&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hive-302B63?style=flat-square"/>
+</p>
+### Cloud, DevOps & Tooling
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,firebase&theme=dark"/>
+</p>
+---
+
 ## Featured Projects
 
 <details>
