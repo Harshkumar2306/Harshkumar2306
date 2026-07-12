@@ -211,7 +211,6 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 &nbsp;
 ![OCI GenAI Professional](https://img.shields.io/badge/Oracle-Cloud_Infrastructure_GenAI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-<br/>
 
 **Coursera**
 
