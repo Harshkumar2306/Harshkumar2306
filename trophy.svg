@@ -50,7 +50,16 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
 <path d="M7249 1054 c-42 -7 -109 -25 -150 -40 -76 -27 -226 -101 -267 -133 l-24 -18 41 -66 c22 -37 36 -67 31 -67 -18 0 -11 -80 11 -121 11 -22 53 -73 92 -113 279 -282 682 -361 1251 -245 113 23 172 49 188 84 14 30 3 72 -20 77 -9 3 18 15 61 29 l78 24 -93 81 c-362 313 -622 460 -902 509 -106 18 -194 18 -297 -1z"/>
 </g>
 </svg>
-  <svg x="68" y="35" width="65" height="65" viewBox="0 0 30 30" fill="#2dde98" xmlns="http://www.w3.org/2000/svg">
+  <svg x="7" y="35" width="65" height="65" viewBox="0 0 30 30" fill="#2dde98" xmlns="http://www.w3.org/2000/svg">
+      
+    <path d="M7 10h2v4H7v-4z"/>
+    <path d="M10 11c0 .552-.895 1-2 1s-2-.448-2-1 .895-1 2-1 2 .448 2 1z"/>
+    <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
+    <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
+    <circle cx="8" cy="6" r="4" fill="#bf91f3" />
+    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#0d1117">A</text>
+  
+    </svg><svg x="68" y="35" width="65" height="65" viewBox="0 0 30 30" fill="#2dde98" xmlns="http://www.w3.org/2000/svg">
       
     <path d="M7 10h2v4H7v-4z"/>
     <path d="M10 11c0 .552-.895 1-2 1s-2-.448-2-1 .895-1 2-1 2 .448 2 1z"/>
@@ -61,7 +70,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
     </svg>
   <defs>
-    <linearGradient id="AA" gradientTransform="rotate(45)">
+    <linearGradient id="AAA" gradientTransform="rotate(45)">
     
     <stop offset="0%" stop-color="#2dde98"/>
     <stop offset="70%" stop-color="#2dde98"/>
@@ -69,7 +78,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     
     </linearGradient>
   </defs>
-  <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#AA)" xmlns="http://www.w3.org/2000/svg">
+  <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#AAA)" xmlns="http://www.w3.org/2000/svg">
     
     <path d="M7 10h2v4H7v-4z"/>
     <path d="M10 11c0 .552-.895 1-2 1s-2-.448-2-1 .895-1 2-1 2 .448 2 1z"/>
@@ -81,8 +90,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   </svg>
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#70a5fd">Commits</text>
-          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#38bdae">Hyper Committer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">462pt</text>
+          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#38bdae">Ultra Committer</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">503pt</text>
           
     <style>
     @keyframes CommitsRankAnimation {
@@ -90,7 +99,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 69.87px;
+        width: 0.48px;
       }
     }
     #Commits-rank-progress{
@@ -320,21 +329,21 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#70a5fd">PullRequest</text>
-          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#38bdae">First Pull</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">2pt</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#70a5fd">Issues</text>
+          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#38bdae">First Issue</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">1pt</text>
           
     <style>
-    @keyframes PullRequestRankAnimation {
+    @keyframes IssuesRankAnimation {
       from {
         width: 0px;
       }
       to {
-        width: 8.89px;
+        width: 0.00px;
       }
     }
-    #PullRequest-rank-progress{
-      animation: PullRequestRankAnimation 1s forwards ease-in-out;
+    #Issues-rank-progress{
+      animation: IssuesRankAnimation 1s forwards ease-in-out;
     }
     </style>
     <rect
@@ -347,7 +356,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
       fill="#00aeff"
     />
     <rect
-      id="PullRequest-rank-progress"
+      id="Issues-rank-progress"
       x="15"
       y="101"
       rx="1"
@@ -400,21 +409,21 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#70a5fd">Followers</text>
-          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#38bdae">First Friend</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">1pt</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#70a5fd">PullRequest</text>
+          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#38bdae">First Pull</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">2pt</text>
           
     <style>
-    @keyframes FollowersRankAnimation {
+    @keyframes PullRequestRankAnimation {
       from {
         width: 0px;
       }
       to {
-        width: 0.00px;
+        width: 8.89px;
       }
     }
-    #Followers-rank-progress{
-      animation: FollowersRankAnimation 1s forwards ease-in-out;
+    #PullRequest-rank-progress{
+      animation: PullRequestRankAnimation 1s forwards ease-in-out;
     }
     </style>
     <rect
@@ -427,7 +436,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
       fill="#00aeff"
     />
     <rect
-      id="Followers-rank-progress"
+      id="PullRequest-rank-progress"
       x="15"
       y="101"
       rx="1"
@@ -480,12 +489,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#70a5fd">Issues</text>
-          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#38bdae">First Issue</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#70a5fd">Stars</text>
+          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#38bdae">First Star</text>
           <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">1pt</text>
           
     <style>
-    @keyframes IssuesRankAnimation {
+    @keyframes StarsRankAnimation {
       from {
         width: 0px;
       }
@@ -493,8 +502,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0.00px;
       }
     }
-    #Issues-rank-progress{
-      animation: IssuesRankAnimation 1s forwards ease-in-out;
+    #Stars-rank-progress{
+      animation: StarsRankAnimation 1s forwards ease-in-out;
     }
     </style>
     <rect
@@ -507,7 +516,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
       fill="#00aeff"
     />
     <rect
-      id="Issues-rank-progress"
+      id="Stars-rank-progress"
       x="15"
       y="101"
       rx="1"
@@ -519,6 +528,86 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         
         <svg
           x="244"
+          y="110"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            x="0.5"
+            y="0.5"
+            rx="4.5"
+            width="109"
+            height="109"
+            stroke="#e1e4e8"
+            fill="#1a1b27"
+            stroke-opacity="0"
+            fill-opacity="1"
+          />
+          
+  
+  
+  <defs>
+    <linearGradient id="C" gradientTransform="rotate(45)">
+    
+      <stop offset="0%" stop-color="#5c75c3"/>
+      <stop offset="50%" stop-color="#5c75c3"/>
+      <stop offset="100%" stop-color="#6272a4"/>
+  
+    </linearGradient>
+  </defs>
+  <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#C)" xmlns="http://www.w3.org/2000/svg">
+    
+    <path d="M7 10h2v4H7v-4z"/>
+    <path d="M10 11c0 .552-.895 1-2 1s-2-.448-2-1 .895-1 2-1 2 .448 2 1z"/>
+    <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
+    <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
+    <circle cx="8" cy="6" r="4" fill="#bf91f3" />
+    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#0d1117">C</text>
+  
+  </svg>
+  
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#70a5fd">Followers</text>
+          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#38bdae">First Friend</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">2pt</text>
+          
+    <style>
+    @keyframes FollowersRankAnimation {
+      from {
+        width: 0px;
+      }
+      to {
+        width: 8.89px;
+      }
+    }
+    #Followers-rank-progress{
+      animation: FollowersRankAnimation 1s forwards ease-in-out;
+    }
+    </style>
+    <rect
+      x="15"
+      y="101"
+      rx="1"
+      width="80"
+      height="3.2"
+      opacity="0.3"
+      fill="#00aeff"
+    />
+    <rect
+      id="Followers-rank-progress"
+      x="15"
+      y="101"
+      rx="1"
+      height="3.2"
+      fill="#00aeff"
+    />
+  
+        </svg>
+        
+        <svg
+          x="366"
           y="110"
           width="110"
           height="110"
@@ -588,86 +677,6 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     />
     <rect
       id="Reviews-rank-progress"
-      x="15"
-      y="101"
-      rx="1"
-      height="3.2"
-      fill="#00aeff"
-    />
-  
-        </svg>
-        
-        <svg
-          x="366"
-          y="110"
-          width="110"
-          height="110"
-          viewBox="0 0 110 110"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <rect
-            x="0.5"
-            y="0.5"
-            rx="4.5"
-            width="109"
-            height="109"
-            stroke="#e1e4e8"
-            fill="#1a1b27"
-            stroke-opacity="0"
-            fill-opacity="1"
-          />
-          
-  
-  
-  <defs>
-    <linearGradient id="?" gradientTransform="rotate(45)">
-    
-      <stop offset="0%" stop-color="#5c75c3"/>
-      <stop offset="50%" stop-color="#5c75c3"/>
-      <stop offset="100%" stop-color="#6272a4"/>
-  
-    </linearGradient>
-  </defs>
-  <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#?)" xmlns="http://www.w3.org/2000/svg">
-    
-    <path d="M7 10h2v4H7v-4z"/>
-    <path d="M10 11c0 .552-.895 1-2 1s-2-.448-2-1 .895-1 2-1 2 .448 2 1z"/>
-    <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
-    <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
-    <circle cx="8" cy="6" r="4" fill="#bf91f3" />
-    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#0d1117">?</text>
-  
-  </svg>
-  
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#70a5fd">Stars</text>
-          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#38bdae">Unknown</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#38bdae">0pt</text>
-          
-    <style>
-    @keyframes StarsRankAnimation {
-      from {
-        width: 0px;
-      }
-      to {
-        width: 0.00px;
-      }
-    }
-    #Stars-rank-progress{
-      animation: StarsRankAnimation 1s forwards ease-in-out;
-    }
-    </style>
-    <rect
-      x="15"
-      y="101"
-      rx="1"
-      width="80"
-      height="3.2"
-      opacity="0.3"
-      fill="#00aeff"
-    />
-    <rect
-      id="Stars-rank-progress"
       x="15"
       y="101"
       rx="1"
