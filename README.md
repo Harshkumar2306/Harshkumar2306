@@ -13,7 +13,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Andhra_Pradesh,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
-
 <p>
   <a href="https://harsh-kumar-blush.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
