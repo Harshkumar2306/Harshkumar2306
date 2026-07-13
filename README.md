@@ -89,7 +89,6 @@ Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Pro
   &nbsp;
   <img src="https://img.shields.io/badge/Hive-302B63?style=flat-square"/>
 </p>
-
 ### 🔧 Tools & IDEs
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,github,figma,postman,vercel&theme=dark"/>
