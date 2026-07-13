@@ -82,7 +82,6 @@ Open to: Software Engineering Internships · AI/ML Engineer Roles · GenAI / Pro
 ### ⚙️ Backend & DevOps
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,docker,git,linux,aws,firebase&theme=dark"/>
-
 <p align="center">
   <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square"/>
   &nbsp;
