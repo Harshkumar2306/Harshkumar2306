@@ -200,6 +200,7 @@ Built and shipped enterprise-grade GenAI tooling as part of a Government of Andh
 - Designed a multi-step prompt chaining engine and parameter tuning dashboard with real-time output previews, accelerating prompt iteration speed by 2x
 - Integrated a few-shot learning module and a Firebase-backed per-session rating system, reducing evaluation effort by 40%
 - Shipped 3 core AI features to production on Render using Firebase Authentication and secure JSON/TXT export pipelines
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
